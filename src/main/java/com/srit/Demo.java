@@ -4,7 +4,7 @@ public class Demo {
     public static void main(String[] args) {
         System.out.println("Hello and welcome!");
         System.out.println("This is my first Java program.");
-        System.out.println("This is my second Java program");
+        System.out.println("This is my second Java program Testing");
 
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = " + i);
